@@ -75,9 +75,9 @@ label {
 }
 
 input {
-  width: 95%;
+  width: 96%;
   margin-bottom: 10px;
-  padding: 10px;
+  padding: 7px;
   border: 1px solid #ccc;
   border-radius: 20px;
   background: #fff;
@@ -113,7 +113,7 @@ li {
   display: inline-block;
   font-size: 30px;
   list-style-type: none;
-  padding: 10px;
+  padding: 7px;
   text-transform: uppercase;
 }
 
@@ -170,9 +170,9 @@ li span {
 
   .container {
     min-width: unset;
-    width: 90vw;
+    width: 92vw;
     min-height: 245px;
-    padding: 20px;
+    padding: 15px;
     margin: 10px;
   }
 
@@ -190,7 +190,7 @@ li span {
   }
 
   input {
-    width: 93%;
+    width: 94%;
   }
 
   h1 {
@@ -202,6 +202,6 @@ li span {
   }
 
   li span {
-    font-size: 40px;
+    font-size: 35px;
   }
 }
