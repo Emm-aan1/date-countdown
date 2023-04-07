@@ -191,6 +191,7 @@ li span {
 
   input {
     width: 94%;
+    display: block;
   }
 
   h1 {
